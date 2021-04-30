@@ -21,6 +21,7 @@ Back end  app for an e-commerce site
   * In the command line type node followed by the name of the file, like the command bellow: 
 
   ```
+  ```
 
 ## Screenshots: 
 
