@@ -22,4 +22,25 @@ Back end  app for an e-commerce site
 
   ```
 
-## Screenshots:  
+## Screenshots: 
+
+
+
+
+## Walkthrough Video:
+  Check this video that demonstrates the functionality of the application:<br />
+   [Walkthrough-Video]()
+
+## License:
+  This project is convered under the MIT License.
+
+## Contributing:
+  Contributions are accepted. Feel free to fork.
+ 
+
+## Questions:
+  For any questions, additional help or questions about collaboration, please contact me with the information below:
+ 
+  * GitHub: [GitHub-Profile](https://github.com/asia-codeing)
+  * Portfolio: [My-Portfolio](https://asia-codeing.github.io/my-Portfolio/)
+  * Email: asia.alius@gmail.com
