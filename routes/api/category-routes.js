@@ -63,9 +63,10 @@ router.put('/:id', async (req, res) => {
         },
       returning: true
     });
-    if (!categoryData) 
+    if (!categoryData) {
     const data = categoryData[1][0].get();
     res.status(200).json({ success: true, data });
+    }
   } catch (err) {
     res.status(500).json(err);
 
