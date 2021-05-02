@@ -61,7 +61,7 @@ router.put('/:id', async (req, res) => {
       }
     );
     if (tagData) {
-    const data = tagData[1][0]//.get();
+    const data = tagData[1][0];
     res.status(200).json({ success: true, data });
     }
   } catch (err) {

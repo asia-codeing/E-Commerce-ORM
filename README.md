@@ -14,15 +14,24 @@ Back end  app for an e-commerce site
   * [Questions](#questions)
 
 ## Installation:
+Installing my packages, in this application we need more than one package. We need MySQL2, Sequelize, Epress, DotEnv packages. We can install these packages by using the commands below:
+* ``` npm init ```
+* ``` npm i express sequelize mysql2 ```
+* ``` npm i dotenv ```
+* Create DataBase By using mysql workbench.
+* Seed the DataBase by using this command:<br />
+``` npm run seed ```
+
 
 ## Usage:
   * open the terminal.
   * make sure you are in the right directory.
-  * In the command line type node followed by the name of the file, like the command bellow: 
-
+  * In the command line type node followed by the name of the file, like the command bellow:<br />
   ```
+  node server.js
   ```
-
+  * Open API GET routes in Insomnia Core for categories, products, or tags.
+  * Test API POST, PUT, and DELETE routes in Insomnia Core.
 ## Screenshots: 
 
 
