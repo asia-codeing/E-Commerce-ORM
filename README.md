@@ -33,13 +33,13 @@ Installing my packages, in this application we need more than one package. We ne
   * Open API GET routes in Insomnia Core for categories, products, or tags.
   * Test API POST, PUT, and DELETE routes in Insomnia Core.
 ## Screenshots: 
-
+![Demo](./images/eCommerce.gif)
 
 
 
 ## Walkthrough Video:
   Check this video that demonstrates the functionality of the application:<br />
-   [Walkthrough-Video]()
+   [Walkthrough-Video](https://drive.google.com/file/d/1qjrfph_VQ23zEQ8HWJVIqRc57Q4CyMyZ/view?usp=sharing)
 
 ## License:
   This project is convered under the MIT License.
